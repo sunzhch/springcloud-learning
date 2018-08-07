@@ -1,2 +1,2 @@
 # springcloud-learning
-learning springcloud . 跟着大神桥代码中。。。
+learning springcloud . 跟着大神敲代码中。。。
